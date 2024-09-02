@@ -1,0 +1,13 @@
+package com.example.demo.exception;
+
+public class PatientCreationException extends RuntimeException {
+
+	public PatientCreationException(String string) {
+	}
+
+	/**
+	 * 
+	 */
+	private static final long serialVersionUID = 1L;
+
+}
